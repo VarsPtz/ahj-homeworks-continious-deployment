@@ -1,4 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/92uf5c8gwqfrspwn?svg=true)](https://ci.appveyor.com/project/VarsPtz/ahj-homeworks-continious-deployment)
+
+[GitHub Pages](https://varsptz.github.io/ahj-homeworks-continious-deployment/)
 ### Continuous Deployment
 
 #### Легенда
