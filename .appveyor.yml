@@ -24,7 +24,7 @@ build_script:
 
 # to run your custom scripts instead of automatic tests
 test_script:
-  - yarn run lint && yarn test
+  - yarn run lint && yarn notest
 
 deploy_script: # скрипт развёртывания
   - git config --global credential.helper store
